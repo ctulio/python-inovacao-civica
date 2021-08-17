@@ -1,0 +1,25 @@
+https://pegabot.com.br/
+https://brasil.io/home/
+https://www.dadosabertosdefeira.com.br/
+https://colaboradados.com.br/
+https://azmina.com.br/projetos/penhas/
+https://fogocruzado.org.br/
+https://perfil.parlametria.org/
+https://painel.parlametria.org.br/paineis
+https://parlametria.org/home
+https://justa.org.br/
+https://embaixadoras.ok.org.br/
+
+0.13 - Métodos de requisição HTTP
+
+    GET recuperar dados, leitura (200, 404)
+    POST enviar dados (201)
+    DELETE excluir um recurso (200, 404)
+    PUT atualizar um recurso (200, 204)
+    PATCH atualizar parcialmente um recurso (200, 204)
+
+  Postman, insonmia, hoppscotch
+  jsonplaceholder.typicode.com
+  postmon.comee
+
+
