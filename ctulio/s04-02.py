@@ -15,6 +15,7 @@ zip_file.close()
 
 DTYPE = {
     'txNomeParlamentar': str,
+    'cpf': str,
     'ideCadastro': str,
     'nuCarteiraParlamentar': str,
     'nuLegislatura': str,
