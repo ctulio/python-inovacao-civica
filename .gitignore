@@ -1,4 +1,5 @@
 *.zip
+ctulio/*.csv
 
 venv
 .env
